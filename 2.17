@@ -1,0 +1,30 @@
+a) Using one statement with one stream insertion operator.
+
+#include <iostream>
+using namespace std;
+main()
+{
+   cout<< “Welcome to C++ programming”;
+   return 0;
+} 
+
+b) Using one statement with four stream insertion operators.
+
+#include <iostream>
+using namespace std;
+main()
+{
+   cout<< “Welcome” << “to” << “C++” << “programming”;
+   return 0;
+}
+
+c) Using four statements.
+
+#include <iostream>
+using namespace std;
+main()
+{
+   cout<< “Welcome”;
+   cout<< “to” << “C++” << “programming”;
+   return 0;
+}
