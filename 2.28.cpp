@@ -1,8 +1,8 @@
 #include <iostream>
 using namespace std;
-int main ()
+int main()
 {
-	int num;
+    int num;
     cout<< "Enter 4-digit number:";
     cin>>num;
     cout<<num%10<< "  ";
@@ -15,4 +15,3 @@ int main ()
     num=num/10;
     return 0;
 }
-
