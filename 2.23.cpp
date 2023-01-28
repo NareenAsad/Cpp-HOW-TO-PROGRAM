@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int a,b,c,d,e;
+    int a,b,c,d,e;
     cout<< "Enter 5 integers:";
     cin>>a>>b>>c>>d>>e;
     { 
