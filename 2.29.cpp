@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
-int main () {
+int main()
+{
     int a;
     a=1;
     cout<< "Side of square (cm)" << " " << "Perimeter of square (cm)" << " " << "Area of square (cm^2)"<<endl;
@@ -14,4 +15,3 @@ int main () {
     a=a+1;
     return 0;
 }
-
