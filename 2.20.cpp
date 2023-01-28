@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	float r, d, c, a;
+    float r, d, c, a;
     cout<< "Enter value of radius:";
     cin>>r;
     d=(2*r);
