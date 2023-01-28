@@ -13,5 +13,5 @@ int main()
    cout<< “First two integers are factor of second”;
    if (a % b !=0 && a % c != 0)
    cout<< “First two integers are not factor of second”;
-    return 0;
+   return 0;
 }
