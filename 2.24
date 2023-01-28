@@ -1,0 +1,15 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+    int a, b,sum;
+    cout << "Enter two integer:";
+    cin>>a>>b;
+    if(a % 2 != 0)
+    cout <<a<<" is odd"<<endl;
+    if(b % 2 != 0)
+    cout<<b<<" is odd"<<endl;
+    sum=((a+b)% 2 != 0);
+    cout<<"Sum of two number is odd:"<<(a+b)<<endl;
+    return 0;
+}
