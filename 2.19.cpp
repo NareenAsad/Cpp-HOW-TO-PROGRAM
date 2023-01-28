@@ -2,7 +2,7 @@
 using namespace std;
 int main()
 {
-	int x,y,z,sum,prod;
+    int x,y,z,sum,prod;
     float avg;
     cout<<"Enter three values:";
     cin>>x>>y>>z;
