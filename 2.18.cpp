@@ -1,8 +1,8 @@
-# include <iostream>
+#include <iostream>
 using namespace std;
 int main()
 {
-	int a, b;
+    int a, b;
     cout<< "Enter two numbers:";
     cin>>a>>b;
     if(a != b) {
@@ -16,4 +16,3 @@ int main()
     }
     return 0;
 }
-
